@@ -1,0 +1,58 @@
+# Manifest Document for Open MES
+## Version: 1.0
+### Date: 11.10.2024
+### Authors: 
+- Eric Pereira Fioraso
+- Lucas Gimenez Santos
+- Tiago Felipe Benisterro
+
+## Table of Contents
+1. Overview
+2. System Requirements
+3. Installation Instructions
+4. Configuration Details
+5. Dependencies
+6. Contribution Guidelines
+7. Licensing Information
+8. Contact Information
+9. Acknowledgments
+10. Update History
+
+## 1. Overview
+The purpose of #openMES is to provide to every industry the possibility of transform their process into digital process, allowing waste reduction, cost reduction, improve process and quality.
+
+## 2. System Requirements
+### Hardware Requirements
+- Minimum: 16 GB RAM
+- Recommended: network adapter
+
+### Software Requirements
+- Linux xxxx
+- Kafka xxxx
+- Rabbit MQ
+- Postgresql
+
+## 3. Installation Instructions
+[Provide detailed installation instructions.]
+
+## 4. Configuration Details
+[Provide configuration settings.]
+
+## 5. Dependencies
+- [Library/Module Name]: [Version and Link]
+- [Library/Module Name]: [Version and Link]
+
+## 6. Contribution Guidelines
+[Outline how to contribute.]
+
+## 7. Licensing Information
+[License details and link to license.]
+
+## 8. Contact Information
+[Contact details for support.]
+
+## 9. Acknowledgments
+[Credit individuals/organizations.]
+
+## 10. Update History
+- 1.0: Version Manifest creation 
