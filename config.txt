@@ -1,0 +1,5 @@
+server-address=localhost
+server-port=1521
+DBId=PASX
+user=wltuser
+pwd=wlt

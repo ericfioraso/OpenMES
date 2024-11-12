@@ -1,0 +1,12 @@
+# Compiled source #
+###################
+vc140.pdb
+integrator.obj
+integrator.exe
+integrator.exe.manifest
+integrator.ilk
+integrator.pdb
+DB/
+lib/
+libarm64/
+vc143_x64_dll/
