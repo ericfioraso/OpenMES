@@ -1,0 +1,28 @@
+Equipment ID
+Equipment description
+Equipment class
+Equipment type,
+Equipment type description
+Comment
+Time
+Status
+Reason for status
+User
+Control signature
+Type of activity
+Material number
+Material description
+Batch number
+Manufacturing order number
+Shop floor order number
+Target material number
+Target material description
+Target batch number
+Rule not observed
+Tare
+Tare unit
+Bundle ID
+Workroom
+Old status
+Max. clean idle time day(s)
+Last cleaning
